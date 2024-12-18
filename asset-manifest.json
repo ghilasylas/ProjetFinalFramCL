@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProjetFinalFramCL/static/css/main.1cb76e03.css",
+    "main.js": "/ProjetFinalFramCL/static/js/main.47ac8047.js",
+    "index.html": "/ProjetFinalFramCL/index.html",
+    "main.1cb76e03.css.map": "/ProjetFinalFramCL/static/css/main.1cb76e03.css.map",
+    "main.47ac8047.js.map": "/ProjetFinalFramCL/static/js/main.47ac8047.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb76e03.css",
+    "static/js/main.47ac8047.js"
+  ]
+}
